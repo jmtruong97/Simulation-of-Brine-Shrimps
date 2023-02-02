@@ -1,6 +1,5 @@
 #
 # Author : Juanitta Truong
-# ID : 18360682
 #
 # shrimpSimBase.py - Basic simulation of brine shrimp for assignment, S2 2019. 
 # 
