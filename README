@@ -1,0 +1,40 @@
+#
+# Author: Juanitta Truong
+#
+# ID: 18360682
+#
+# README - Contents and information file for FOP assignment containing a
+#          Brine Shrimp simulation program that plots the shrimps with their
+#          states, sizes, colours and lifecycle. Contains implemented
+#          functions to allow user's to input varying parameters through 
+#          command line arguments.
+#          To run the Brine Shrimp simulation program, input into command line
+#          python3 shrimpSimBase.py arg1 arg2 arg3 arg4 arg5 arg6 arg7
+#          where it represents XMAX, YMAX, population, age step, time step,
+#          death rate and reproduction rate respectfully. Parameters must be 
+#          inputed in that exact order. More details on how to use are found
+#          in the user guide.
+#
+# CONTENTS:
+# Cover sheet -  for assignment
+# User guide -  Brine Shrimp simulation program containing purpose, features,
+#               how to use, explanation of code
+# Report - Brine Shrimp simulation experiment on how varying parameters impact
+#          the results of the simulation 
+# shrimp.py - Class shrimp object containing functions to implement shrimp
+#             attributes and properties 
+# shrimpSimBase.py - Main function containing function to plot and simulate 
+#                    shrimps
+#
+# DEPENDENCIES:
+# random - in shrimp.py, shrimpSimBase.py
+# maplotlib.pyplot - in shrimpSimBase.py
+# numpy - in shrimpSimBase.py
+# sys - in shrimpSimBase.py
+# shrimp - in shrimpSimBase.py
+#
+# VERSION INFORMATION:
+# 2/10/19 - initial version of files
+#
+#
+
