@@ -1,4 +1,5 @@
 #
+# Author: Juanitta Truong
 #
 # shrimp.py - Class definitions for simulation of brine shrimp 
 #
