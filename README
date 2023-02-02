@@ -1,9 +1,7 @@
 #
-# Author: Juanitta Truong
 #
-# ID: 18360682
 #
-# README - Contents and information file for FOP assignment containing a
+# README - Contents and information file for a
 #          Brine Shrimp simulation program that plots the shrimps with their
 #          states, sizes, colours and lifecycle. Contains implemented
 #          functions to allow user's to input varying parameters through 
@@ -16,7 +14,6 @@
 #          in the user guide.
 #
 # CONTENTS:
-# Cover sheet -  for assignment
 # User guide -  Brine Shrimp simulation program containing purpose, features,
 #               how to use, explanation of code
 # Report - Brine Shrimp simulation experiment on how varying parameters impact
